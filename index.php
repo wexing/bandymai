@@ -24,7 +24,7 @@
 
 	$funk->edvinas('edvinukas')	;
 
- 	echo "json_decode(json)";
+ 	echo "json_decod(json)";
 
 
 ?>
