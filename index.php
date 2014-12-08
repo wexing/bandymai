@@ -26,11 +26,9 @@
 
 	$funk->edvinas('edvinukas')	;
 
-<<<<<<< HEAD
- 	echo "json_decod(json)";
-=======
+ 	echo "json_decode(json)";
 
->>>>>>> parent of fbc04ab... dddd
+
 
 
 ?>
