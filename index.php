@@ -19,12 +19,18 @@
 		}
 	    
 	}
+	
+	echo 'naujas';
 
 	$funk = new bandymas();
 
 	$funk->edvinas('edvinukas')	;
 
+<<<<<<< HEAD
  	echo "json_decod(json)";
+=======
+
+>>>>>>> parent of fbc04ab... dddd
 
 
 ?>
