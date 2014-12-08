@@ -20,6 +20,8 @@
 	    
 	}
 	
+	echo 'naujas';
+
 	$funk = new bandymas();
 
 	$funk->edvinas('edvinukas')	;
