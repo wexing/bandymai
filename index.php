@@ -19,14 +19,12 @@
 		}
 	    
 	}
-	
-	echo 'naujas';
 
 	$funk = new bandymas();
 
 	$funk->edvinas('edvinukas')	;
 
-
+ 	echo "json_decode(json)";
 
 
 ?>
